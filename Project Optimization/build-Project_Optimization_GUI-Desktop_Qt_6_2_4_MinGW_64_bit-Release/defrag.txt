@@ -1,0 +1,2 @@
+
+The storage optimizer cannot start because you have insufficient privileges to perform this operation. (0x89000024)

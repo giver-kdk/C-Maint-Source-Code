@@ -1,0 +1,25 @@
+
+Invoking defragmentation on (C:)...
+
+
+Pre-Optimization Report:
+
+	Volume Information:
+		Volume size                 = 48.82 GB
+		Free space                  = 9.10 GB
+		Total fragmented space      = 2%
+		Largest free space size     = 5.23 GB
+
+	Note: File fragments larger than 64MB are not included in the fragmentation statistics.
+
+The operation completed successfully.
+
+Post Defragmentation Report:
+
+	Volume Information:
+		Volume size                 = 48.82 GB
+		Free space                  = 9.10 GB
+		Total fragmented space      = 0%
+		Largest free space size     = 5.23 GB
+
+	Note: File fragments larger than 64MB are not included in the fragmentation statistics.
